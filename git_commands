@@ -1,0 +1,13 @@
+1) git init ----- to initialize git (.git will be created inside the folder)
+2)git status ----- status of .git 
+3)git add README.md -------- to add the readme.md file to the git repo
+4)git commit -m "commit message" ------ commit upto current 
+	or 
+git commit ------ open the editor there type whatever message you want
+5)git remote add remote_name ssh key/https --------- add remote repo
+6)git push -u remote_name master ----- push repo to master
+7)git branch ----- to show branches
+8)git checkout -b new_branch_name  ------ checkout from current branch and move to a newly created branch
+9)git push remote_name branch_name  ------- push the new branch to the new repo
+10)git add file_name  ----- to add a file to repo
+11)git add .  ----- to add all the files to repo
